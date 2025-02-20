@@ -1,0 +1,51 @@
+body
+{
+    margin-top: 10%;
+}
+.game
+{
+    margin:auto;
+    background-color: lightgray;
+    width: 600px;
+    border: 20px solid lightgray;
+    border-radius: 5px;
+}
+.stats
+{
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+.stat2
+{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.buttons
+{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+.battle
+{
+    display: none;
+    background-color: red;
+    border: 2px solid black;
+    padding: 10px;
+    color: white;
+}
+.text
+{
+    padding:10px;
+    background-color: black;
+    color: white;
+}
+button
+{
+    padding:5px;
+}
+#monsterName
+{
+    padding-right: 30px;
+}
